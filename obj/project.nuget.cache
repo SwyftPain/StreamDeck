@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "76gBP9Bm6NE=",
+  "success": true,
+  "projectFilePath": "D:\\os\\term\\StreamDeckMiniGuiExample\\StreamDeckMiniGuiExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\hidsharp\\2.1.0\\hidsharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\openmacroboard.sdk\\6.0.0\\openmacroboard.sdk.6.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\sixlabors.imagesharp\\2.1.6\\sixlabors.imagesharp.2.1.6.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\streamdecksharp\\6.0.0\\streamdecksharp.6.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenMacroBoard.SDK" Version="6.0.0" />
+    <PackageReference Include="StreamDeckSharp" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PluginContracts">
+      <HintPath>C:\Users\nikol\source\repos\PluginContracts\bin\Debug\net8.0-windows\PluginContracts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
